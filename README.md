@@ -189,6 +189,11 @@ The optimized NTP cases reached specific impulse values above:
 
 within the assumptions of the simplified model.
 
+### Key Plots
+
+![Specific Impulse Comparison](results/01_specific_impulse_comparison.png)
+
+![Pareto Front](results/05_pareto_front.png)
 ---
 
 ## Project Structure
